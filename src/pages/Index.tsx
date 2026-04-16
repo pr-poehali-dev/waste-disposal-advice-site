@@ -156,7 +156,7 @@ export default function Index() {
             >
               ♻
             </div>
-            <span className="font-display text-base font-bold text-white tracking-tight">ЭкоУтиль</span>
+            <span className="font-display text-base font-bold text-white tracking-tight">ЭкоСовет</span>
           </div>
           <nav className="hidden md:flex items-center gap-6">
             <button className="text-sm text-white/60 hover:text-white transition-colors">Главная</button>
@@ -344,7 +344,7 @@ export default function Index() {
       {/* Footer */}
       <footer className="border-t border-white/5 px-6 py-8 text-center">
         <p className="text-white/25 text-xs">
-          ЭкоУтиль — помогаем сортировать и утилизировать отходы правильно
+          ЭкоСовет — помогаем сортировать и утилизировать отходы правильно
         </p>
       </footer>
     </div>
